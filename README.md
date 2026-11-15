@@ -1,4 +1,17 @@
 
+# Football Computer Vision
+
+An end-to-end football match analysis system using YOLO,
+ByteTrack, OpenCV and Machine Learning.
+
+## Live Demo
+
+🚀 [Open Football Computer Vision Dashboard](https://football-computer-vision-vff2t3hhzodg8dfxigmq2q.streamlit.app/#video-detection-and-tracking)
+
+## GitHub Repository
+
+[View Source Code](https://github.com/amudhanpillai-lang/football-computer-vision/tree/main)
+
 # Football Computer Vision — Automated Match Analysis
 
 An end-to-end computer vision project that analyzes football match footage using object detection, multi-object tracking, team classification, ball tracking, and tactical analytics.
