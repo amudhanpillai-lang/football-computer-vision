@@ -1,0 +1,28 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Dataset and generated files
+data/raw/
+data/processed/
+outputs/videos/
+outputs/heatmaps/
+outputs/reports/*.csv
+outputs/reports/*.txt
+
+# Model weights
+*.pt
+*.onn
+*.engine
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
