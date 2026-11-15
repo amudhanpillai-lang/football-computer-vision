@@ -7,7 +7,7 @@ import pandas as pd
 import streamlit as st
 
 # Set to False for lightweight dashboard-only cloud deployment.
-ENABLE_LIVE_INFERENCE = False
+ENABLE_LIVE_INFERENCE = True
 
 ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data" / "processed"
