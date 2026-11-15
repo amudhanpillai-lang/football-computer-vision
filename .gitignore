@@ -16,7 +16,7 @@ outputs/reports/*.txt
 
 # Model weights
 *.pt
-*.onn
+*.onnx
 *.engine
 
 # IDE
